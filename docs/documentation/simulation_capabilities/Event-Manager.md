@@ -1,6 +1,6 @@
 
 This page describes the methods available in the Trick::EventManager and Trick::EventProcessor class.
-See [Input_File](Input-File) for detailed information on the syntax of the input processor file.
+See [Input_File](https://nasa.github.io/trick/documentation/running_a_simulation/Input-File#events-and-malfunctions) for detailed information on the syntax of the input processor file.
 
 ### User accessible routines
 
@@ -24,4 +24,4 @@ The next set of flowcharts details how the %Trick Event Processor processes even
 
 Each thread in the simulation has an event processing job.
 
-[Continue to Realtime](Realtime)
+[Continue to Realtime](https://nasa.github.io/trick/documentation/simulation_capabilities/Realtime)
